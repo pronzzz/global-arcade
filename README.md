@@ -1,6 +1,6 @@
 # Global Arcade 🎮
 
-![Global Arcade Landing Page](/Users/pranavdwivedi/.gemini/antigravity/brain/a144284e-635b-4f62-8e4a-fb9736fa9163/landing_page_1767313143969.png)
+![Global Arcade Landing Page](docs/images/landing_page_1767313143969.png)
 
 A real-time multiplayer arcade platform built with **React**, **Vite**, **Tailwind CSS**, and **Firebase**. Play classic board games with friends instantly via a shared link. No sign-up required!
 
@@ -12,17 +12,17 @@ A real-time multiplayer arcade platform built with **React**, **Vite**, **Tailwi
 ### Tic-Tac-Toe
 The classic game of X's and O's. Real-time updates and win detection.
 
-![Tic Tac Toe Gameplay](/Users/pranavdwivedi/.gemini/antigravity/brain/a144284e-635b-4f62-8e4a-fb9736fa9163/game_tictactoe_1767313163387.png)
+![Tic Tac Toe Gameplay](docs/images/game_tictactoe_1767313163387.png)
 
 ### Chess (Simplified)
 A 2-player chess board with move validation for all pieces.
 
-![Chess Gameplay](/Users/pranavdwivedi/.gemini/antigravity/brain/a144284e-635b-4f62-8e4a-fb9736fa9163/game_chess_1767313204431.png)
+![Chess Gameplay](docs/images/game_chess_1767313204431.png)
 
 ### Snakes & Ladders
 Race to 100! Complete with snakes, ladders, and dice rolling animations.
 
-![Snakes Gameplay](/Users/pranavdwivedi/.gemini/antigravity/brain/a144284e-635b-4f62-8e4a-fb9736fa9163/game_snakes_1767313255717.png)
+![Snakes Gameplay](docs/images/game_snakes_1767313255717.png)
 
 ## 🚀 Features
 
